@@ -1,6 +1,6 @@
 # 使用 Github Actions 在线编译 NanoPi-R2S 固件
 
-NanoPi R2S 购买链接: [https://s.click.taobao.com/rFvYQpv](https://s.click.taobao.com/rFvYQpv)
+###NanoPi R2S 购买链接: [https://s.click.taobao.com/rFvYQpv](https://s.click.taobao.com/rFvYQpv)
 
 ## 说明
 * IP: 192.168.2.1
